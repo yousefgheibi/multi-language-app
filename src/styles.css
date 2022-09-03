@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    direction: ltr !important;
+}
+
+[lang="fa"] body {
+    direction: rtl !important;
+}
